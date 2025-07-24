@@ -1,0 +1,7 @@
+pynput==1.7.3
+pyscreenshot>=2.3
+sounddevice==0.4.3
+Pillow==11.3.0
+PyQt5
+pyautogui
+matplotlib
