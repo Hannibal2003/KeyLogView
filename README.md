@@ -12,6 +12,8 @@ Purpose of the project is testing the security of information systems
 
 •**python3 keylogger.py**
 
+## Enter password to start Keylogger --- "admin".##
+
 *Note: The README mentions a self-deletion feature if the code is discovered, but this functionality is not implemented in the current version.*
 
 •
